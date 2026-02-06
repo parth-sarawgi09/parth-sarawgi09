@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on EchoMesh<br>🌱 I’m currently learning JAVA<br>💬 Ask me about GYM<br>⚡ Fun fact is that I love GYM
+🔭 I’m currently working on LocalEyes<br>🌱 I’m currently learning JAVA<br>💬 Ask me about GYM<br>⚡ Fun fact is that I love GYM
 
 
 ## 🌐 Socials:
